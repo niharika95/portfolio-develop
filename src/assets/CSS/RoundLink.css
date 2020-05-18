@@ -1,0 +1,15 @@
+.roundLink {
+  background-color: #ffffff;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.linkImage {
+  position: relative;
+  transform: translateY(-50%);
+  top: 50%;
+  height: 30px;
+  width: 30px;
+}
